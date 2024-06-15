@@ -1503,6 +1503,10 @@ right: -50px;
     
 }
 
+.testimonials>h2>a{
+    color: #5cd2b9;
+}
+
 
 .testimonials>h2:hover::after{
     width: 50%;
