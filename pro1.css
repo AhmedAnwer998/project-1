@@ -160,7 +160,7 @@ html{
     display: flex;
     justify-content: center;
     align-items: center;
-    z-index: 1;
+    
     position: relative;
     left: 9rem;
     
@@ -184,7 +184,7 @@ html{
 .all-first-section-img{
     width: 50rem;
     position: relative;
-    z-index: -1;
+    
     height: 37.5rem;
     display: flex;
     justify-content: flex-end;
@@ -340,7 +340,7 @@ html{
     
     height: 37.5rem;
     background-color: black;
-    z-index: 1;
+    
     width: 89rem;
 }
 
